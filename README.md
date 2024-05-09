@@ -45,6 +45,6 @@ The following machine learning algorithms and forecasting models are employed in
 - statsmodels
 
 ## Contributors
-- [Sai Charan Thummalapudi](https://github.com/your_username)
 - [Akshaya Narayana](https://github.com/contributor_username)
+- [Sai Charan Thummalapudi](https://github.com/your_username)
 
